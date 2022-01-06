@@ -80,3 +80,22 @@ h3{
 }
 
 /* <!-- Mission Section End from Here --> */
+
+.develop{
+    background-image: url(./images/shapes/dream-bg.png);
+    background-position:left-top;
+    background-repeat: no-repeat;
+}
+
+h2{
+    font-weight: bold;
+    margin-bottom: 10px;
+
+}
+
+.part-text{
+    margin-top: 60px;
+}
+.part img{
+    width:70%;
+}
